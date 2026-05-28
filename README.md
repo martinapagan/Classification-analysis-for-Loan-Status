@@ -14,7 +14,7 @@ This project was developed for the *Statistical Learning* course within the Mast
 
 ## Project Architecture & Files
 * **`SLproject.R`**: The complete production-ready R script detailing the entire workflow: exploratory data analysis (EDA), conditional missing data imputation, outlier detection, data balancing, feature selection, model training, and predictive performance validation.
-* **`Poster.pptx`**: Academic presentation poster summarizing the empirical approach, research insights, model comparisons, and predictive metrics.
+* **`Poster.pdf`**: Academic presentation poster summarizing the empirical approach, research insights, model comparisons, and predictive metrics.
 
 ---
 
